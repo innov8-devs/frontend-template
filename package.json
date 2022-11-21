@@ -6,9 +6,22 @@
     "start": "next start"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.1",
+    "@bugsnag/js": "^7.18.0",
+    "@bugsnag/plugin-react": "^7.18.0",
+    "@reduxjs/toolkit": "^1.9.0",
+    "graphql": "^16.6.0",
     "next": "latest",
+    "next-redux-wrapper": "^8.0.0",
+    "primeicons": "^6.0.1",
+    "primereact": "^8.7.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.2"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
