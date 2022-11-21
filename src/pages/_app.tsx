@@ -22,7 +22,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <link rel=' icon' href='./Subtract.svg' />
+        <link rel=" icon" href="./Subtract.svg" />
         <title>Input App Title Here</title>
       </Head>
       <Provider store={store}>
